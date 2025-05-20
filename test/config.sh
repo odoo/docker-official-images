@@ -14,7 +14,7 @@ imageTests[:onbuild]+='
 	override-cmd
 '
 
-testAlias+=(
+test+=(
 	[amazoncorretto]='openjdk'
 	[adoptopenjdk]='openjdk'
 	[eclipse-temurin]='openjdk'
