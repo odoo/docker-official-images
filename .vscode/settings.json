@@ -1,0 +1,12 @@
+{
+    "makefile.makefilePath": "%ProgramFiles%\\WindowsPowerShell\\Modules",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./library",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
